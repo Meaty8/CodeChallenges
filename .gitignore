@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Collatz/Collatz/Debug
+/Collatz/Debug
+/Collatz/x64/Debug
+/Collatz/Collatz/x64/Debug
+/Collatz/.vs/Collatz/v16
